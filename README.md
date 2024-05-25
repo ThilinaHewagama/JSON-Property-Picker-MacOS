@@ -1,7 +1,7 @@
-# JSON Property Picker 📝🔍
+# JSON Property Picker - MacOS 📝🔍
 
 ## Description
-JSON Property Picker is a SwiftUI-based application that allows you to easily extract specific property values from a given JSON input. Whether you're dealing with complex nested JSON structures or simple JSON objects, this tool provides a user-friendly interface to search for and retrieve the desired properties.
+JSON Property Picker is a SwiftUI-based macos application that allows you to easily extract specific property values from a given JSON input. Whether you're dealing with complex nested JSON structures or simple JSON objects, this tool provides a user-friendly interface to search for and retrieve the desired properties.
 
 ## Features
 - 🖊️ **Paste JSON**: Input your JSON data directly into the application.
@@ -17,7 +17,7 @@ JSON Property Picker is a SwiftUI-based application that allows you to easily ex
 
 ## Screenshots
 ![JSON Property Picker Screenshot](screenshots/landing.png)
-![JSON Property Picker Screenshot](screenshots/process-done.png)
+![JSON Property Picker Screenshot](screenshots/processing-done.png)
 
 ## Installation
 1. Clone the repository:
